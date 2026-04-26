@@ -23,18 +23,19 @@ To see the colors in the terminal, you need to install the colorama library:
 
 Bash
 pip install colorama
+
 🚀 How to Run
 Clone this repository:
 
-Bash
+
 git clone [https://github.com/YOUR_USERNAME/ATM-Simulation-Python.git](https://github.com/Abhi-Poddar1423/ATM-Simulation-Python.git)
 Navigate to the folder:
 
-Bash
+
 cd ATM-Simulation-Python
 Run the application:
 
-Bash
+
 python main.py
 📝 General Instructions Followed
 [x] Used an Infinite Loop (while True) for the menu.
