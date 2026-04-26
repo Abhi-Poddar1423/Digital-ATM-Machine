@@ -15,7 +15,7 @@ ATM_Project/
 │── main.py            # Entry point: Infinite loop with the menu system.
 │── logic.py           # Core: Handles deposits, withdrawals, and file logging.
 │── auth.py            # Security: Manages PIN verification.
-│── statement.txt      # Database: Stores transaction history (Auto-generated).
+│── transactions.txt      # Database: Stores transaction history (Auto-generated).
 └── .gitignore         # Keeps the repository clean by ignoring temp files.
 
 🛠️ Requirements
